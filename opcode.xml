@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<opcode-project name="msx-multxt-80c" id="1585358C17E" version="0.1">
+    <copyright>OpCode IDE - Objectware Br - www.objectware.net</copyright>
+    <target-platform>MSX_PLATFORM</target-platform>
+    <build-options>src\main.asm build\MULTXT80.BIN -symbols</build-options>
+    <build-sequence>ONLY_EMBEDDED</build-sequence>
+    <description>MSX Multi Text Screen for MSX 2.0 and above
+Version 1.0
+
+Author: Luciano M. Christofoletti
+(C) Astesbas Soft 2019</description>
+    <creation-date>2016-11-11 10:24:35</creation-date>
+    <last-update>2019-02-14 15:23:17</last-update>
+</opcode-project>
